@@ -1,0 +1,7 @@
+.idea/
+target/
+.settings/
+*.zip
+.classpath
+.project
+.dropbox.iml
